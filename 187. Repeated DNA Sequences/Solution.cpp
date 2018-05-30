@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 33.28 %
+    Runtime : 100 ms
+    Testcase : 32 / 32 passed
+    Ranking : Your runtime beats 20.44 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<string> findRepeatedDnaSequences(string s) {

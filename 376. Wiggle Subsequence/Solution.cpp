@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 36.14 %
+    Runtime : 3 ms
+    Testcase : 24 / 24 passed
+    Ranking : Your runtime beats 83.40 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int wiggleMaxLength(vector<int>& nums) {

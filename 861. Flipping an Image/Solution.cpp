@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 72.76 %
+    Runtime : 15 ms
+    Testcase : 82 / 82 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<vector<int>> flipAndInvertImage(vector<vector<int>>& A) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 46.88 %
+    Runtime : 771 ms
+    Testcase : 31 / 31 passed
+    Ranking : Your runtime beats 7.26 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int numberOfBoomerangs(vector<pair<int, int>>& points) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 54.51 %
+    Runtime : 565 ms
+    Testcase : 130 / 130 passed
+    Ranking : Your runtime beats 1.88 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int countSubstrings(string s) {

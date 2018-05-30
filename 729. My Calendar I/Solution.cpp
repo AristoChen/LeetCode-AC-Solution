@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 42.40 %
+    Runtime : 117 ms
+    Testcase : 108 / 108 passed
+    Ranking : Your runtime beats 24.39 % of cpp submissions.
+}
+*/
+
 class MyCalendar {
 public:
     vector<pair<int,int>> schedule;

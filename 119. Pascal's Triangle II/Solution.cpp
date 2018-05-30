@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 38.62 %
+    Runtime : 3 ms
+    Testcase : 34 / 34 passed
+    Ranking : Your runtime beats 80.79 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {

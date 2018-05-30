@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 45.65 %
+    Runtime : 58 ms
+    Testcase : 85 / 85 passed
+    Ranking : Your runtime beats 21.27 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {

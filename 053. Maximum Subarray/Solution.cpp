@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 40.53 %
+    Runtime : 12 ms
+    Testcase : 202 / 202 passed
+    Ranking : Your runtime beats 93.85 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {

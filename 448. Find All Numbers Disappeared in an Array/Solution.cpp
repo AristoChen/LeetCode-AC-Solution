@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 51.13 %
+    Runtime : 804 ms
+    Testcase : 34 / 34 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {

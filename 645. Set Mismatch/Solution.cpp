@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 39.67 %
+    Runtime : 57 ms
+    Testcase : 49 / 49 passed
+    Ranking : Your runtime beats 28.72 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {

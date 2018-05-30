@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 62.59 %
+    Runtime : 13 ms
+    Testcase : 76 / 76 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> shortestToChar(string S, char C) {

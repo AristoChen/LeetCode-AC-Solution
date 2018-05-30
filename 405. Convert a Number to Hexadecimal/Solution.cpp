@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 41.07 %
+    Runtime : 3 ms
+    Testcase : 100 / 100 passed
+    Ranking : Your runtime beats 100.00 % of cpp submissions.
+}
+*/
+
 const string HEX = "0123456789abcdef";
 
 class Solution {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 29.38 %
+    Runtime : 6 ms
+    Testcase : 600 / 600 passed
+    Ranking : Your runtime beats 62.28 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     uint32_t reverseBits(uint32_t n) {

@@ -1,4 +1,14 @@
 /*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 51.69 %
+    Runtime : 44 ms
+    Testcase : 108 / 108 passed
+    Ranking : Your runtime beats 13.93 % of cpp submissions.
+}
+*/
+
+/*
 // Employee info
 class Employee {
 public:

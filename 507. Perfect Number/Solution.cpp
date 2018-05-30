@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 32.52 %
+    Runtime : 605 ms
+    Testcase : 156 / 156 passed
+    Ranking : Your runtime beats 12.84 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool checkPerfectNumber(int num) {

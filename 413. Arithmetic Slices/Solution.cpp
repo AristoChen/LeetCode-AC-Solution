@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 54.46 %
+    Runtime : 4 ms
+    Testcase : 15 / 15 passed
+    Ranking : Your runtime beats 80.31 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int numberOfArithmeticSlices(vector<int>& A) {

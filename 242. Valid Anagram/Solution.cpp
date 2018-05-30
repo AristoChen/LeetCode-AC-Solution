@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 47.84 %
+    Runtime : 20 ms
+    Testcase : 34 / 34 passed
+    Ranking : Your runtime beats 41.05 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool isAnagram(string s, string t) {

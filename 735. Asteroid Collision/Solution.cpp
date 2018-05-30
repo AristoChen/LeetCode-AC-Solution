@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 37.11 %
+    Runtime : 54 ms
+    Testcase : 275 / 275 passed
+    Ranking : Your runtime beats 3.27 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {

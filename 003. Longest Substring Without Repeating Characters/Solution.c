@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 24.77 %
+    Runtime : 185 ms
+    Testcase : 983 / 983 passed
+    Ranking : Your runtime beats 3.05 % of c submissions.
+}
+*/
+
 bool allUnique(char* s, int start, int end)
 {
 	for (int i = start; i < end; i++)

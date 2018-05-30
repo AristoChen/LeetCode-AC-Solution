@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 63.30 %
+    Runtime : 9 ms
+    Testcase : 28 / 28 passed
+    Ranking : Your runtime beats 65.42 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int countBattleships(vector<vector<char>>& board) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 42.11 %
+    Runtime : 3 ms
+    Testcase : 29 / 29 passed
+    Ranking : Your runtime beats 87.53 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string decodeString(string s) {

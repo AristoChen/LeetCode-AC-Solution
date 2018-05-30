@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 43.44 %
+    Runtime : 17 ms
+    Testcase : 44 / 44 passed
+    Ranking : Your runtime beats 99.29 % of cpp submissions.
+}
+*/
+
 /**
  * // This is the interface that allows for creating nested lists.
  * // You should not implement it, or speculate about its implementation

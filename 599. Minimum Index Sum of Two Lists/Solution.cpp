@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 46.43 %
+    Runtime : 124 ms
+    Testcase : 133 / 133 passed
+    Ranking : Your runtime beats 27.88 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<string> findRestaurant(vector<string>& list1, vector<string>& list2) {

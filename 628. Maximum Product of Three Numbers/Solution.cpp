@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 44.73 %
+    Runtime : 68 ms
+    Testcase : 83 / 83 passed
+    Ranking : Your runtime beats 51.91 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {

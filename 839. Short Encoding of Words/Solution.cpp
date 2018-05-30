@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 40.65 %
+    Runtime : 506 ms
+    Testcase : 30 / 30 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int minimumLengthEncoding(vector<string>& words) {

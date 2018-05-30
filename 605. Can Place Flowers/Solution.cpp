@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 30.11 %
+    Runtime : 20 ms
+    Testcase : 123 / 123 passed
+    Ranking : Your runtime beats 69.57 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool canPlaceFlowers(vector<int>& flowerbed, int n) {

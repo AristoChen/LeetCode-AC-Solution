@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 47.89 %
+    Runtime : 38 ms
+    Testcase : 126 / 126 passed
+    Ranking : Your runtime beats 29.44 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {

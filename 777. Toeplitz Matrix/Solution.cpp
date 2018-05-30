@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 57.81 %
+    Runtime : 21 ms
+    Testcase : 482 / 482 passed
+    Ranking : Your runtime beats 70.39 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool isToeplitzMatrix(vector<vector<int>>& matrix) {

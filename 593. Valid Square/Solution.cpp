@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 39.93 %
+    Runtime : 9 ms
+    Testcase : 244 / 244 passed
+    Ranking : Your runtime beats 64.94 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool validSquare(vector<int>& p1, vector<int>& p2, vector<int>& p3, vector<int>& p4) {

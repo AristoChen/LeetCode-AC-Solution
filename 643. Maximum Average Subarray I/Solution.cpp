@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 37.70 %
+    Runtime : 1676 ms
+    Testcase : 123 / 123 passed
+    Ranking : Your runtime beats 4.76 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {

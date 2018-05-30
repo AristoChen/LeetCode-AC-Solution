@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 62.43 %
+    Runtime : 84 ms
+    Testcase : 15 / 15 passed
+    Ranking : Your runtime beats 19.48 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> countBits(int num) {

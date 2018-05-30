@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 47.43 %
+    Runtime : 81 ms
+    Testcase : 18 / 18 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {

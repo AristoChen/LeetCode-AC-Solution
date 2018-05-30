@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 46.52 %
+    Runtime : 1316 ms
+    Testcase : 85 / 85 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int leastBricks(vector<vector<int>>& wall) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Hard
+    Acceptance Rate : 38.47 %
+    Runtime : 10 ms
+    Testcase : 68 / 68 passed
+    Ranking : Your runtime beats 90.90 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {

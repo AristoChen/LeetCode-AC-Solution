@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 33.59 %
+    Runtime : 3 ms
+    Testcase : 33 / 33 passed
+    Ranking : Your runtime beats 53.82 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool wordPattern(string pattern, string str) {

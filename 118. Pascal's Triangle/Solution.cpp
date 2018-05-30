@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 40.57 %
+    Runtime : 3 ms
+    Testcase : 15 / 15 passed
+    Ranking : Your runtime beats 96.52 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {

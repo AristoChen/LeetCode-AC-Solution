@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 36.58 %
+    Runtime : 5 ms
+    Testcase : 26 / 26 passed
+    Ranking : Your runtime beats 3.27 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int countSegments(string s) {

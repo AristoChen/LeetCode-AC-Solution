@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 40.58 %
+    Runtime : 9 ms
+    Testcase : 600 / 600 passed
+    Ranking : Your runtime beats 8.61 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int hammingWeight(uint32_t n) {

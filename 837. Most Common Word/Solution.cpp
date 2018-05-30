@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 49.40 %
+    Runtime : 6 ms
+    Testcase : 46 / 46 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string mostCommonWord(string paragraph, vector<string>& banned) {

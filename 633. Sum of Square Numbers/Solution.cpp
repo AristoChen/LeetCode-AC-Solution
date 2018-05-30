@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 32.42 %
+    Runtime : 7 ms
+    Testcase : 124 / 124 passed
+    Ranking : Your runtime beats 72.80 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool judgeSquareSum(int c) {

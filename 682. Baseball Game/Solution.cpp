@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 58.32 %
+    Runtime : 8 ms
+    Testcase : 39 / 39 passed
+    Ranking : Your runtime beats 22.44 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int calPoints(vector<string>& ops) {

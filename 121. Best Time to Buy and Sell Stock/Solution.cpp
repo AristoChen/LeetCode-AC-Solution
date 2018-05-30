@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 43.27 %
+    Runtime : 8 ms
+    Testcase : 200 / 200 passed
+    Ranking : Your runtime beats 80.63 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {

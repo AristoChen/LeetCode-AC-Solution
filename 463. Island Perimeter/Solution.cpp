@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 58.14 %
+    Runtime : 204 ms
+    Testcase : 5833 / 5833 passed
+    Ranking : Your runtime beats 53.99 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int islandPerimeter(vector<vector<int>>& grid) {

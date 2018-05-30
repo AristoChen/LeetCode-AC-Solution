@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 53.53 %
+    Runtime : 12 ms
+    Testcase : 57 / 57 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     double largestTriangleArea(vector<vector<int>>& points) {

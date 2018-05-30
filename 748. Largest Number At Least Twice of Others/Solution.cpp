@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 41.39 %
+    Runtime : 10 ms
+    Testcase : 250 / 250 passed
+    Ranking : Your runtime beats 50.85 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int dominantIndex(vector<int>& nums) {

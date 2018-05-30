@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 52.01 %
+    Runtime : 17 ms
+    Testcase : 35 / 35 passed
+    Ranking : Your runtime beats 84.85 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string frequencySort(string s) {

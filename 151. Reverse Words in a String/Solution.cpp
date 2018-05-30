@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 15.66 %
+    Runtime : 8 ms
+    Testcase : 22 / 22 passed
+    Ranking : Your runtime beats 44.83 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     void reverseWords(string &s) {

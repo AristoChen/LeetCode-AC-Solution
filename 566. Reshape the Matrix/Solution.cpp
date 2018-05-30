@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 57.59 %
+    Runtime : 39 ms
+    Testcase : 56 / 56 passed
+    Ranking : Your runtime beats 95.55 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<vector<int>> matrixReshape(vector<vector<int>>& nums, int r, int c) {

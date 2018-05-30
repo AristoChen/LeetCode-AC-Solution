@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 48.35 %
+    Runtime : 21 ms
+    Testcase : 202 / 202 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<vector<int>> largeGroupPositions(string S) {

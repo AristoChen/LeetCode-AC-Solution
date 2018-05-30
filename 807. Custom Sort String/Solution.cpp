@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 59.84 %
+    Runtime : 5 ms
+    Testcase : 39 / 39 passed
+    Ranking : Your runtime beats 24.08 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string customSortString(string S, string T) {

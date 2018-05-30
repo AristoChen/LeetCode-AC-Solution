@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 55.11 %
+    Runtime : 4 ms
+    Testcase : 93 / 93 passed
+    Ranking : Your runtime beats 97.40 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string optimalDivision(vector<int>& nums) {

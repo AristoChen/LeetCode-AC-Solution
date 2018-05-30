@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 31.43 %
+    Runtime : 109 ms
+    Testcase : 27 / 27 passed
+    Ranking : Your runtime beats 13.30 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<pair<int, int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {

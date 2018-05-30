@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 34.53 %
+    Runtime : 2 ms
+    Testcase : 16 / 16 passed
+    Ranking : Your runtime beats 100.00 % of cpp submissions.
+}
+*/
+
 class MyStack {
 public:
     /** Initialize your data structure here. */

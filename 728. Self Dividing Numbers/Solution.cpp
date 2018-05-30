@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 66.79 %
+    Runtime : 10 ms
+    Testcase : 31 / 31 passed
+    Ranking : Your runtime beats 9.12 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> selfDividingNumbers(int left, int right) {

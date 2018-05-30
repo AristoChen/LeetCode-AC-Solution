@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 51.44 %
+    Runtime : 64 ms
+    Testcase : 39 / 39 passed
+    Ranking : Your runtime beats 44.78 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int findPoisonedDuration(vector<int>& timeSeries, int duration) {

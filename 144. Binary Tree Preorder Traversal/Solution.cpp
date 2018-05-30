@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 47.26 %
+    Runtime : 5 ms
+    Testcase : 68 / 68 passed
+    Ranking : Your runtime beats 5.94 % of cpp submissions.
+}
+*/
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 41.18 %
+    Runtime : 110 ms
+    Testcase : 201 / 201 passed
+    Ranking : Your runtime beats 44.34 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int findLHS(vector<int>& nums) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 28.14 %
+    Runtime : 9 ms
+    Testcase : 26 / 26 passed
+    Ranking : Your runtime beats 65.44 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {

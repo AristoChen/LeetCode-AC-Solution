@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 51.85 %
+    Runtime : 13 ms
+    Testcase : 550 / 550 passed
+    Ranking : Your runtime beats 77.18 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool detectCapitalUse(string word) {

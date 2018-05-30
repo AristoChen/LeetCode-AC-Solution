@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 44.19 %
+    Runtime : 9 ms
+    Testcase : 61 / 61 passed
+    Ranking : Your runtime beats 49.28 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {

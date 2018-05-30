@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 38.24 %
+    Runtime : 50 ms
+    Testcase : 107 / 107 passed
+    Ranking : Your runtime beats 29.47 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool repeatedSubstringPattern(string s) {

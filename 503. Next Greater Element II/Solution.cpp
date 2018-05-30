@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 48.03 %
+    Runtime : 266 ms
+    Testcase : 224 / 224 passed
+    Ranking : Your runtime beats 12.79 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 45.35 %
+    Runtime : 65 ms
+    Testcase : 122 / 122 passed
+    Ranking : Your runtime beats 1.12 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {

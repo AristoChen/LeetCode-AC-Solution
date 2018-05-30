@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 61.19 %
+    Runtime : 8 ms
+    Testcase : 149 / 149 passed
+    Ranking : Your runtime beats 12.38 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int findComplement(int num) {

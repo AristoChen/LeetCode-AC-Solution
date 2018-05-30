@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Hard
+    Acceptance Rate : 34.41 %
+    Runtime : 231 ms
+    Testcase : 18 / 18 passed
+    Ranking : Your runtime beats 2.01 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {

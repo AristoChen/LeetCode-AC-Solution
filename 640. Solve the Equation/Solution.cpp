@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 38.80 %
+    Runtime : 4 ms
+    Testcase : 52 / 52 passed
+    Ranking : Your runtime beats 47.77 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string solveEquation(string equation) {

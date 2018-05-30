@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Hard
+    Acceptance Rate : 22.84 %
+    Runtime : 5 ms
+    Testcase : 601 / 601 passed
+    Ranking : Your runtime beats 84.01 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string numberToWords(int num) {

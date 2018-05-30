@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 53.03 %
+    Runtime : 13 ms
+    Testcase : 64 / 64 passed
+    Ranking : Your runtime beats 12.42 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<string> letterCasePermutation(string S) {

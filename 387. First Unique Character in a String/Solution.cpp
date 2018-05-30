@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 47.27 %
+    Runtime : 80 ms
+    Testcase : 104 / 104 passed
+    Ranking : Your runtime beats 28.92 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int firstUniqChar(string s) {

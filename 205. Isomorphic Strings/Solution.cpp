@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 34.92 %
+    Runtime : 10 ms
+    Testcase : 30 / 30 passed
+    Ranking : Your runtime beats 63.95 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {

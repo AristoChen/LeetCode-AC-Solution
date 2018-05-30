@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 41.89 %
+    Runtime : 4 ms
+    Testcase : 401 / 401 passed
+    Ranking : Your runtime beats 85.26 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool isHappy(int n) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 49.52 %
+    Runtime : 41 ms
+    Testcase : 856 / 856 passed
+    Ranking : Your runtime beats 69.44 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int arrayNesting(vector<int>& nums) {

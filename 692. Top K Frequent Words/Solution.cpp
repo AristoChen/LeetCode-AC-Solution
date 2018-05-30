@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 41.38 %
+    Runtime : 18 ms
+    Testcase : 110 / 110 passed
+    Ranking : Your runtime beats 51.94 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {

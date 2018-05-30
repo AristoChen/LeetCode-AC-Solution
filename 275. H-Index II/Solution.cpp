@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 34.96 %
+    Runtime : 62 ms
+    Testcase : 83 / 83 passed
+    Ranking : Your runtime beats 21.88 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int hIndex(vector<int>& citations) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 53.02 %
+    Runtime : 277 ms
+    Testcase : 37 / 37 passed
+    Ranking : Your runtime beats 23.91 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {

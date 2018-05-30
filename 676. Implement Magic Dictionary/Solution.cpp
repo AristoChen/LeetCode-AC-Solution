@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 49.12 %
+    Runtime : 3 ms
+    Testcase : 32 / 32 passed
+    Ranking : Your runtime beats 99.48 % of cpp submissions.
+}
+*/
+
 class MagicDictionary {
 public:
     vector<string> dictionary;

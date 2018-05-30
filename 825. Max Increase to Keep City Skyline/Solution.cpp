@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 81.43 %
+    Runtime : 10 ms
+    Testcase : 133 / 133 passed
+    Ranking : Your runtime beats 99.27 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int maxIncreaseKeepingSkyline(vector<vector<int>>& grid) {

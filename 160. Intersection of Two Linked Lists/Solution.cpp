@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 30.85 %
+    Runtime : 38 ms
+    Testcase : 42 / 42 passed
+    Ranking : Your runtime beats 51.40 % of cpp submissions.
+}
+*/
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {

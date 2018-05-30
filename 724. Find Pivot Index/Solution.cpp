@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 39.51 %
+    Runtime : 886 ms
+    Testcase : 741 / 741 passed
+    Ranking : Your runtime beats 2.58 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {

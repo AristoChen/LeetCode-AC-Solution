@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 48.37 %
+    Runtime : 22 ms
+    Testcase : 44 / 44 passed
+    Ranking : Your runtime beats 61.34 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {

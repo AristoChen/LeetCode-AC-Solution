@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 40.82 %
+    Runtime : 78 ms
+    Testcase : 21038 / 21038 passed
+    Ranking : Your runtime beats 71.76 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool isPowerOfThree(int n) {

@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 33.36 %
+    Runtime : 5 ms
+    Testcase : 87 / 87 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int numMagicSquaresInside(vector<vector<int>>& grid) {

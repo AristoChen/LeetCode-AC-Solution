@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 46.07 %
+    Runtime : 8 ms
+    Testcase : 95 / 95 passed
+    Ranking : Your runtime beats 47.04 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int longestPalindrome(string s) {

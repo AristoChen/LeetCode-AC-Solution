@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 63.24 %
+    Runtime : 16 ms
+    Testcase : 52 / 52 passed
+    Ranking : Your runtime beats 75.20 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<string> subdomainVisits(vector<string>& cpdomains) {

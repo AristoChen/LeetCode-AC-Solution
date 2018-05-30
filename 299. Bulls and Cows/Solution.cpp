@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 36.16 %
+    Runtime : 9 ms
+    Testcase : 151 / 151 passed
+    Ranking : Your runtime beats 43.54 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string getHint(string secret, string guess) {

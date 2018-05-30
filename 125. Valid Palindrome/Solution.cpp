@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 27.41 %
+    Runtime : 75 ms
+    Testcase : 476 / 476 passed
+    Ranking : Your runtime beats 3.05 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     bool isPalindrome(string s) {

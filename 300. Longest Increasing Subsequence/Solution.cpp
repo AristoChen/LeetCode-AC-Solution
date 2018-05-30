@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 38.96 %
+    Runtime : 36 ms
+    Testcase : 24 / 24 passed
+    Ranking : Your runtime beats 15.82 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {

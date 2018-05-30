@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 33.95 %
+    Runtime : 25 ms
+    Testcase : 3082 / 3082 passed
+    Ranking : Your runtime beats 29.01 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int computeArea(int A, int B, int C, int D, int E, int F, int G, int H) {

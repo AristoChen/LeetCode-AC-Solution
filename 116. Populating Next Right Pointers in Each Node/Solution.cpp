@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 36.77 %
+    Runtime : 25 ms
+    Testcase : 14 / 14 passed
+    Ranking : Your runtime beats 15.33 % of cpp submissions.
+}
+*/
+
 /**
  * Definition for binary tree with next pointer.
  * struct TreeLinkNode {

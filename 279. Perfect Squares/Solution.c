@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 37.87 %
+    Runtime : 3 ms
+    Testcase : 586 / 586 passed
+    Ranking : Your runtime beats 100.00 % of c submissions.
+}
+*/
+
 int numSquares(int n) {
     int answer = 0;
 	

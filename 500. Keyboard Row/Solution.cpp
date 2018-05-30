@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 60.08 %
+    Runtime : 3 ms
+    Testcase : 22 / 22 passed
+    Ranking : Your runtime beats 79.01 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<string> findWords(vector<string>& words) {

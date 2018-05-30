@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 46.99 %
+    Runtime : 38 ms
+    Testcase : 89 / 89 passed
+    Ranking : Your runtime beats 77.74 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {   

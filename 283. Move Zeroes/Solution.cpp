@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 51.76 %
+    Runtime : 16 ms
+    Testcase : 21 / 21 passed
+    Ranking : Your runtime beats 99.04 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {

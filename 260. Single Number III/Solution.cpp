@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 53.52 %
+    Runtime : 20 ms
+    Testcase : 30 / 30 passed
+    Ranking : Your runtime beats 14.66 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {

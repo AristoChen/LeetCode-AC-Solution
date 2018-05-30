@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 63.87 %
+    Runtime : 3 ms
+    Testcase : 55 / 55 passed
+    Ranking : Your runtime beats 98.49 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     string complexNumberMultiply(string a, string b) {

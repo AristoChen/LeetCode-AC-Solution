@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 27.28 %
+    Runtime : 348 ms
+    Testcase : 83 / 83 passed
+    Ranking : Your runtime beats 00.00 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int numFriendRequests(vector<int>& ages) {

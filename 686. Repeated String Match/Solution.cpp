@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 31.77 %
+    Runtime : 18 ms
+    Testcase : 51 / 51 passed
+    Ranking : Your runtime beats 75.09 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     int repeatedStringMatch(string A, string B) {

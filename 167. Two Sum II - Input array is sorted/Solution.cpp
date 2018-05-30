@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 47.26 %
+    Runtime : 139 ms
+    Testcase : 17 / 17 passed
+    Ranking : Your runtime beats 6.15 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {

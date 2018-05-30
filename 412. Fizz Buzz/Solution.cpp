@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Easy
+    Acceptance Rate : 57.97 %
+    Runtime : 5 ms
+    Testcase : 8 / 8 passed
+    Ranking : Your runtime beats 78.92 % of cpp submissions.
+}
+*/
+
 #include <string>
 class Solution {
 public:

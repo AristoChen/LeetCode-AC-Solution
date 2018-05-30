@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 47.58 %
+    Runtime : 4 ms
+    Testcase : 18 / 18 passed
+    Ranking : Your runtime beats 11.67 % of cpp submissions.
+}
+*/
+
 class Solution {
 public:
     vector<vector<int>> combinationSum3(int k, int n) {

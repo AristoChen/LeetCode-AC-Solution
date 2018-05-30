@@ -1,3 +1,13 @@
+/*
+Submission Detail:{
+    Difficulty : Medium
+    Acceptance Rate : 51.36 %
+    Runtime : 4 ms
+    Testcase : 30 / 30 passed
+    Ranking : Your runtime beats 100.00 % of cpp submissions.
+}
+*/
+
 class MapSum {
 public:
     /** Initialize your data structure here. */
